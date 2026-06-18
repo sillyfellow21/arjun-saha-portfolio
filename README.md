@@ -56,8 +56,7 @@ A causal uplift modeling framework to prioritize churn prevention actions by exp
 ## 🎓 Education
 
 **BSc in Computer Science**  
-*BRAC University* (2022 – 2026)  
-
+*BRAC University* (2022 – 2026)
 
 **Thesis:** *A Multi‑Stage Deep Learning Framework for Automated Detection and Localization of Shrimp Disease* (Pending publication)  
 - Applied Transfer Learning, U‑Net++, and Adversarial Training to achieve **96.8%** classification accuracy and robust lesion segmentation on a custom dataset.
