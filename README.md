@@ -1,178 +1,81 @@
-# Arjun Saha
+# 👨‍💻 Arjun Saha
 
-Applied AI/ML Engineer with experience in Retrieval-Augmented Generation (RAG), Natural Language Processing, Graph Neural Networks, Fraud Detection, and Causal Uplift Modeling. Passionate about building production-ready machine learning systems and translating research into practical applications across finance and healthcare.
+**Computer Science Undergraduate | AI/ML Enthusiast | Full-Stack Developer**
 
-## Contact
-
-* Email: [arjun144948@gmail.com](mailto:arjun144948@gmail.com)
-* LinkedIn: [LinkedIn Profile]
-* GitHub: [GitHub Profile]
-
-## About Me
-
-I am a Computer Science graduate with hands-on experience developing machine learning and AI solutions from data collection and feature engineering to deployment and monitoring. My work focuses on intelligent systems, fraud detection, financial risk analysis, healthcare AI, and causal inference.
-
-## Technical Skills
-
-### Programming Languages
-
-* Python
-* SQL
-* Dart
-* TypeScript
-* PHP
-
-### Machine Learning & AI
-
-* Retrieval-Augmented Generation (RAG)
-* Natural Language Processing (NLP)
-* Graph Neural Networks (GNN)
-* Deep Learning
-* Computer Vision
-* Image Segmentation
-* Causal Inference
-* Uplift Modeling
-* Fraud Detection
-* Feature Engineering
-* Financial Risk Systems
-
-### Frameworks & Libraries
-
-* Scikit-learn
-* TensorFlow
-* PyTorch
-* XGBoost
-* LangChain
-
-### Backend & Data Engineering
-
-* FastAPI
-* Node.js
-* PostgreSQL
-* Redis
-* REST APIs
-* Data Analysis
-
-### Frontend
-
-* React
-* Flutter
-* Tailwind CSS
-
-### Tools & Cloud
-
-* Docker
-* Git
-* GitHub
-* MLflow
-* AWS
-* Streamlit
-* Jupyter Notebook
-
-## Featured Projects
-
-### Medical-RAG-Chatbot
-
-Healthcare-focused retrieval-augmented assistant designed to generate grounded responses using retrieved medical information.
-
-#### Highlights
-
-* Built an end-to-end RAG pipeline.
-* Implemented context retrieval and prompt orchestration.
-* Reduced hallucination risk through evidence-based generation.
-
-**Tech Stack:** Python, RAG, LLMs, Prompt Engineering, Information Retrieval
+📧 arjun144948@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/sillyfellow21)
 
 ---
 
-### AuditRAG-Finance
+## 📌 Professional Summary
 
-Finance audit workflow powered by retrieval-augmented language models for automated document review and risk analysis.
-
-#### Highlights
-
-* Automated financial document analysis.
-* Generated evidence-backed summaries.
-* Implemented production-quality testing and code standards.
-
-**Tech Stack:** Python, RAG, NLP, MLflow, Financial Risk Analysis
+Computer Science undergraduate with a strong background in **computer vision** and **generative AI**, proficient in Python and PyTorch. Skilled in image segmentation, deep learning, and deploying AI models using Docker and AWS. Experienced building end-to-end AI pipelines for retrieval-augmented systems and graph-based solutions, ready to support virtual try‑on and clothing recognition projects.
 
 ---
 
-### GNN Fraud Detection
+## 🧰 Technical Skills
 
-Graph-based fraud detection system designed to identify anomalies through transaction relationships and network structures.
-
-#### Highlights
-
-* Modeled transactional relationships using graph learning.
-* Captured relational signals unavailable in tabular approaches.
-* Improved anomaly detection capability.
-
-**Tech Stack:** Graph Neural Networks, Deep Learning, Python, Network Analysis
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, SQL, Dart, TypeScript, PHP |
+| **AI/ML** | RAG, NLP, GNN, Computer Vision, Deep Learning, Generative AI, Diffusion Models, Image Segmentation, Causal Inference, Uplift Modeling, Scikit‑learn, TensorFlow, PyTorch, XGBoost, LangChain |
+| **Backend & Data** | FastAPI, Node.js, PostgreSQL, Redis, REST APIs |
+| **Frontend** | React, Flutter, Tailwind CSS |
+| **Tools & Cloud** | Docker, GitHub, MLflow, AWS, Streamlit, Jupyter Notebook |
 
 ---
 
-### Causal Uplift Churn Prevention
+## 🚀 Projects
 
-Machine learning framework for prioritizing customer retention actions based on predicted intervention impact.
+### 🏥 Medical‑RAG‑Chatbot
+A healthcare‑focused retrieval‑augmented assistant that generates grounded responses using retrieved medical context.  
+- Implemented a pipeline for context retrieval, prompt orchestration, and response generation to reduce hallucination risk.  
+- **Tech:** Python, RAG, LLMs, Prompt Engineering, Information Retrieval.  
+🔗 [GitHub](https://github.com/sillyfellow21/Medical-RAG-Chatbot)
 
-#### Highlights
+### 💰 AuditRAG‑Finance
+A finance audit support workflow using retrieval‑grounded LLM outputs for document review tasks.  
+- Structured analysis flow for risk‑oriented review and evidence‑backed summaries.  
+- **Tech:** Python, RAG, NLP, Financial Analysis.  
+🔗 [GitHub](https://github.com/sillyfellow21/AuditRAG-Finance)
 
-* Applied uplift modeling techniques.
-* Estimated treatment effects for retention campaigns.
-* Supported data-driven decision making.
+### 🔍 GNN Fraud‑Detection
+Graph ML fraud detection approach to model relationship structure and transaction behavior for anomaly discovery.  
+- Leveraged graph‑based learning to capture relational signals beyond flat tabular features.  
+- **Tech:** GNN, Deep Learning, Python, Network Analysis.  
+🔗 [GitHub](https://github.com/sillyfellow21/Gnn-Fraud-Detection)
 
-**Tech Stack:** Causal Inference, Uplift Modeling, Python, Statistical Modeling
+### 🎯 Causal Uplift Churn Prevention
+A causal uplift modeling framework to prioritize churn prevention actions by expected intervention impact.  
+- Applied treatment‑effect oriented evaluation for decision‑making in retention strategy.  
+- **Tech:** Causal Inference, Uplift Modeling, Python, Statistical Modeling.  
+🔗 [GitHub](https://github.com/sillyfellow21/Causal-Uplift-Churn-Prevention)
 
-## Education
+---
 
-### BRAC University
+## 🎓 Education
 
-**Bachelor of Science in Computer Science**
-2022 – 2026
+**BSc in Computer Science**  
+*BRAC University* (2022 – 2026)  
 
-* GPA: 3.00
-* Thesis: *A Multi-Stage Deep Learning Framework for Automated Detection and Localization of Shrimp Disease* (Pending Publication)
-* Achieved 96.8% classification accuracy using Transfer Learning, U-Net++, and Adversarial Training.
+**Thesis:** *A Multi‑Stage Deep Learning Framework for Automated Detection and Localization of Shrimp Disease* (Pending publication)  
+- Applied Transfer Learning, U‑Net++, and Adversarial Training to achieve **96.8%** classification accuracy and robust lesion segmentation on a custom dataset.
 
-## Certifications
+---
 
-### BCG Data Science Job Simulation
+## 📜 Certifications
 
-Forage, 2026
+- **BCG Data Science Job Simulation** on Forage (Virtual Internship) – 2026  
+- **Foundations of Data Science** by Google on Coursera – 2023
 
-### Foundations of Data Science
+---
 
-Google Coursera, 2023
+## 🎨 Extracurricular Activities
 
-## Leadership & Extracurricular Activities
+- **BRAC University Art & Photography Society** – Senior Executive (prev. Junior Executive) *Mar 2023 – Nov 2024*  
+- **BRAC Express** – Social Media Coordinator (Copywriting & SMP) *Apr 2024 – Aug 2024*  
+- **BRAC University Leadership Development Forum** – Marketing Executive *Mar 2023 – Jun 2024*
 
-### BRAC University Art & Photography Society
+---
 
-Senior Executive (Previously Junior Executive)
-Mar 2023 – Nov 2024
-
-### BRACU Express
-
-Social Media Coordinator
-Apr 2024 – Aug 2024
-
-### BRAC University Leadership Development Forum
-
-Marketing Executive
-Mar 2023 – Jun 2024
-
-## Career Interests
-
-* Applied Artificial Intelligence
-* Machine Learning Engineering
-* Financial Risk Analytics
-* Fraud Detection Systems
-* Healthcare AI
-* NLP and LLM Applications
-* MLOps and Production ML
-
-## Current Focus
-
-Building intelligent AI systems that combine retrieval, reasoning, graph learning, and causal inference to solve real-world business and healthcare problems.
+> *“Building practical AI that solves real problems, one commit at a time.”*
