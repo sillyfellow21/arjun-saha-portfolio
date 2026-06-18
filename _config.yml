@@ -1,0 +1,5 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Arjun Saha
+description: Arjun Saha is an Applied AI/ML Engineer building practical, production-oriented systems across healthcare, finance, agriculture, and trust & safety. His work bridges research and working prototypes, with a focus on Retrieval-Augmented Generation (RAG), NLP for low-resource languages (Bangla), graph-based fraud detection, and causal machine learning.
