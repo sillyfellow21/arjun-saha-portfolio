@@ -1,6 +1,6 @@
 # 👨‍💻 Arjun Saha
 
-**Computer Science Undergraduate | AI/ML Enthusiast | Full-Stack Developer**
+**Computer Science Undergraduate | AI/ML Enthusiast | Computer Vision Engineer**
 
 📧 arjun144948@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/sillyfellow21)
